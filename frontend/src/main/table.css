@@ -1,0 +1,7 @@
+#transfer{
+    margin: auto;
+}
+#table{
+    display: flex;
+    flex-direction: column;
+}
